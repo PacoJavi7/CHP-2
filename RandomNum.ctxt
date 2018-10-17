@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RandomNum
+comment0.text=\r\n\ RandomNum.java\ \r\n\r\n\ @author\:\ Javier\ Espinosa\r\n\ Assignment\ \#\:\ 11\r\n\ \r\n\ Brief\ Program\ Description\:\ A\ program\ that\ will\ generate\ random\ numbers\r\n\ \r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
